@@ -18,6 +18,10 @@ const GlobalStyle = createGlobalStyle`
   * {
     box-sizing: border-box;
   }
+
+  div {
+    cursor: default;
+  }
 `;
 
 export default GlobalStyle;
